@@ -1,0 +1,12 @@
+form {
+    border: 3px solid black;
+    width: 500px;
+}
+
+form h1 {
+  color: black;  
+}
+
+form button {
+    padding-right: 20px;
+}
